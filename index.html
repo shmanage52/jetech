@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تماس با ما | Jetech</title>
+    <style>
+        /* Reset some default styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Vazir', sans-serif; /* Font suitable for Persian */
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Main header */
+        header {
+            background-color: #009688;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+            font-size: 2.5rem;
+        }
+
+        /* Container for all content */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Section title */
+        h2 {
+            color: #009688;
+            font-size: 2rem;
+            margin-bottom: 15px;
+        }
+
+        /* Introductory paragraph */
+        .intro {
+            font-size: 1.2rem;
+            color: #555;
+            margin-bottom: 30px;
+        }
+
+        /* Product section */
+        .products {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 20px;
+            margin-bottom: 50px;
+        }
+
+        .product-card {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 30%;
+            padding: 15px;
+            text-align: center;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .product-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .product-card h3 {
+            font-size: 1.5rem;
+            color: #009688;
+            margin-bottom: 10px;
+        }
+
+        .product-card p {
+            font-size: 1rem;
+            color: #777;
+        }
+
+        .product-card a {
+            display: inline-block;
+            background-color: #009688;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            margin-top: 15px;
+            border-radius: 5px;
+        }
+
+        .product-card a:hover {
+            background-color: #00796b;
+        }
+
+        /* Contact section */
+        .contact-info {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 40px;
+        }
+
+        .contact-info p {
+            font-size: 1.2rem;
+            color: #555;
+            margin-bottom: 20px;
+        }
+
+        /* Responsive Styles */
+        @media (max-width: 768px) {
+            .product-card {
+                width: 45%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .product-card {
+                width: 100%;
+            }
+            header {
+                font-size: 1.8rem;
+            }
+        }
+
+        .map-link {
+            display: inline-block;
+            background-color: #009688;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .map-link:hover {
+            background-color: #00796b;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Jetech - نمایندگی رسمی در ایران
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>معرفی برند Jetech</h2>
+            <p class="intro">
+                Jetech یکی از برندهای معتبر در زمینه تولید ابزارهای صنعتی و تجهیزات فنی با کیفیت جهانی است. با بیش از 30 سال سابقه فعالیت در ایران، ما به عنوان نماینده رسمی فروش محصولات Jetech، آماده ارائه بهترین ابزارها و خدمات به مشتریان عزیز هستیم.
+            </p>
+        </section>
+
+        <section class="products">
+            <div class="product-card">
+                <h3>ابزارهای دستی و برقی</h3>
+                <p>شامل آچارها، پیچ‌گوشتی‌ها، دریل‌ها، فرزها و سایر ابزارهای مورد نیاز صنایع.</p>
+                <a href="#">مشاهده بیشتر</a>
+            </div>
+
+            <div class="product-card">
+                <h3>تجهیزات اندازه‌گیری</h3>
+                <p>انواع کولیس، میکرومتر، ترازو و ابزارهای دقیق اندازه‌گیری.</p>
+                <a href="#">مشاهده بیشتر</a>
+            </div>
+
+            <div class="product-card">
+                <h3>لوازم جانبی</h3>
+                <p>باتری، شارژر، قطعات یدکی و سایر لوازم مورد نیاز.</p>
+                <a href="#">مشاهده بیشتر</a>
+            </div>
+        </section>
+
+        <section class="contact-info">
+            <h2>اطلاعات تماس</h2>
+            <p><strong>آدرس:</strong> No.20، امام خمینی، کوچه میرزایی، بازار ابزار یراق، راه حق بازار، تهران، ایران. <br><strong>کد پستی:</strong> 1136749489</p>
+            <p><strong>شماره تماس:</strong> 0098 21 66714686 <br> 0098 21 66715139</p>
+            <a href="https://maps.app.goo.gl/GhraniwuGjaiwpBV7" class="map-link" target="_blank">مشاهده مکان روی نقشه</a>
+        </section>
+    </div>
+</body>
+</html>
