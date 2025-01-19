@@ -4,7 +4,9 @@
    <img src="https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/8/AmazonStores/A1PA6795UKMFR9/8c4073d6cf26e62044fc35a4d1a174e2.w1920.h384._CR0%2C0%2C1920%2C384_SX1500_.jpg" alt="Jetech Banner" style="max-width:100%; height:auto;">
 </div>
 
-Jetech یکی از برندهای معتبر در زمینه تولید ابزارهای صنعتی و تجهیزات فنی با کیفیت جهانی است. با بیش از **۳۰ سال سابقه فعالیت** در ایران، ما به عنوان نماینده رسمی فروش محصولات Jetech، آماده ارائه بهترین ابزارها و خدمات به مشتریان عزیز هستیم.
+<div style="text-align:justify; direction:rtl; font-family:'IRANSans', Tahoma, sans-serif;">
+   Jetech یکی از برندهای معتبر در زمینه تولید ابزارهای صنعتی و تجهیزات فنی با کیفیت جهانی است. با بیش از <strong>۳۰ سال سابقه فعالیت</strong> در ایران، ما به عنوان نماینده رسمی فروش محصولات Jetech، آماده ارائه بهترین ابزارها و خدمات به مشتریان عزیز هستیم.
+</div>
 
 ## محصولات Jetech
 
