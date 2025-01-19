@@ -31,6 +31,7 @@
 
 ## شبکه‌های اجتماعی
 
+- **اینستاگرام:** [@jetechtool.ir](https://instagram.com/jetechtools.ir)
 - **تلگرام:** [@jetechtool](https://t.me/jetechtool)
 - **واتس‌اپ:** [گروه واتس‌اپ Jetech](https://chat.whatsapp.com/DysY9d8Ibpb5pzjQIykAcN)
 
@@ -48,20 +49,24 @@
 یک برنچ (Branch) جدید ایجاد کنید:
 
    ```bash
-    git checkout -b feature/your-feature-name
+   git checkout -b feature/your-feature-name
+
 تغییرات خود را کامیت (Commit) کنید:
+
    ```bash
-     git commit -m "Add your message here"
+   git commit -m "Add your message here"
+
 تغییرات را به ریپازیتوری خود پوش (Push) کنید:
 
    ```bash
-    git push origin feature/your-feature-name
+   git push origin feature/your-feature-name
+
 یک پول ریکوئست (Pull Request) ایجاد کنید.
 
 
 لایسنس
-این پروژه تحت لایسنس MIT منتشر شده است.
 
+این پروژه تحت لایسنس MIT منتشر شده است.
 با Jetech، ابزارهای حرفه‌ای را با اطمینان خریداری کنید!
 ابزارهای حرفه‌ای، عملکرد بی‌نظیر!
 
