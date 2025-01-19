@@ -1,6 +1,6 @@
 # Jetech - نمایندگی رسمی در ایران
 
-![Jetech Logo](![Jetech Logo](https://via.placeholder.com/150)](https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/8/AmazonStores/A1PA6795UKMFR9/8c4073d6cf26e62044fc35a4d1a174e2.w1920.h384._CR0%2C0%2C1920%2C384_SX1500_.jpg))
+[(![Jetech Logo]([https://via.placeholder.com/150](https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/8/AmazonStores/A1PA6795UKMFR9/8c4073d6cf26e62044fc35a4d1a174e2.w1920.h384._CR0%2C0%2C1920%2C384_SX1500_.jpg))]
 
 ) <!-- اگر لوگو دارید، لینکش رو اینجا قرار بدید -->
 
