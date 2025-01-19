@@ -50,17 +50,17 @@
 
    ```bash
    git checkout -b feature/your-feature-name
-
+   ```
 تغییرات خود را کامیت (Commit) کنید:
 
    ```bash
    git commit -m "Add your message here"
-
+   ```
 تغییرات را به ریپازیتوری خود پوش (Push) کنید:
 
    ```bash
    git push origin feature/your-feature-name
-
+   ```
 یک پول ریکوئست (Pull Request) ایجاد کنید.
 
 
