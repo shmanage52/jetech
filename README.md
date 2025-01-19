@@ -1,6 +1,6 @@
 # Jetech - نمایندگی رسمی در ایران
 
-![Jetech Logo]([https://via.placeholder.com/150)](https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/8/AmazonStores/A1PA6795UKMFR9/8c4073d6cf26e62044fc35a4d1a174e2.w1920.h384._CR0%2C0%2C1920%2C384_SX1500_.jpg) <!-- اگر لوگو دارید، لینکش رو اینجا قرار بدید -->
+![[Jetech Logo](https://via.placeholder.com/150)](https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/8/AmazonStores/A1PA6795UKMFR9/8c4073d6cf26e62044fc35a4d1a174e2.w1920.h384._CR0%2C0%2C1920%2C384_SX1500_.jpg)](https://via.placeholder.com/150) <!-- اگر لوگو دارید، لینکش رو اینجا قرار بدید -->
 
 Jetech یکی از برندهای معتبر در زمینه تولید ابزارهای صنعتی و تجهیزات فنی با کیفیت جهانی است. با بیش از **۳۰ سال سابقه فعالیت** در ایران، ما به عنوان نماینده رسمی فروش محصولات Jetech، آماده ارائه بهترین ابزارها و خدمات به مشتریان عزیز هستیم.
 
@@ -46,10 +46,10 @@ Jetech یکی از برندهای معتبر در زمینه تولید ابزا
    ```bash
     git checkout -b feature/your-feature-name
 تغییرات خود را کامیت (Commit) کنید:
-
    ```bash
      git commit -m "Add your message here"
 تغییرات را به ریپازیتوری خود پوش (Push) کنید:
+2.
 
    ```bash
     git push origin feature/your-feature-name
